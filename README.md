@@ -1,5 +1,3 @@
-# NOTEPAD
-
 # 📝 Java Notepad Application
 
 A simple **Notepad-like text editor** built using **Java Swing**. This project demonstrates GUI development, file handling, and basic text editing features in Java.
