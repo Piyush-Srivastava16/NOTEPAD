@@ -102,12 +102,6 @@ A simple **Notepad-like text editor** built using **Java Swing**. This project d
 * Add search and replace feature
 * Improve UI design
 
----
-
-## 👨‍💻 Author
-
-Your Name
-GitHub: https://github.com/your-username
 
 ---
 
